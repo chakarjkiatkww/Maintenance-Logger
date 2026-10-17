@@ -1,0 +1,6 @@
+{
+  "name": "ServicePulse - Maintenance Log & Status Reporter",
+  "description": "Equipment and machinery maintenance logging platform powered by Google Sheets for seamless work order management, SLA tracking, and automated status reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
